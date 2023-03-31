@@ -26,7 +26,7 @@ sudo update-alternatives --config javac
  
  sudo apt update 
  
- sudo apt install -y fsearch-trunk
+ sudo apt install -y fsearch
  ~~~
  
  ## Fedora
