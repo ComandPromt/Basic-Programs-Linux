@@ -1,3 +1,10 @@
+ # Actualizar el sistema operativo
+
+~~~bash
+
+do-release-upgrade
+
+~~~
  
  # Java
  
