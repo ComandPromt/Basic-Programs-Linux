@@ -16,19 +16,19 @@ apt install -y gimp
 
 apt install -y gdebi
 
- apt install -y kazam
+apt install -y kazam
 
 update-alternatives --config java
 
 update-alternatives --config javac
 
-add-apt-repository ppa:christian-boxdoerfer/fsearch-daily
+add-apt-repository -y ppa:christian-boxdoerfer/fsearch-daily
 
 apt update
 
 apt install -y fsearch
 
-add-apt-repository ppa:paul-climbing/ppa$ sudo apt-get update
+add-apt-repository -y ppa:paul-climbing/ppa$ sudo apt-get update
 
 apt install -y winff
 
@@ -38,7 +38,7 @@ apt update
 
 apt install -y shutter 
 
-add-apt-repository ppa:notepadqq-team/notepadqq
+add-apt-repository -y ppa:notepadqq-team/notepadqq
 
 apt-get update
 
@@ -50,11 +50,11 @@ apt install -y flatpak
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
-flatpak install flathub org.pitivi.Pitivi
+flatpak install -y flathub org.pitivi.Pitivi
 
 flatpak run org.pitivi.Pitivi//stable
 
-add-apt-repository ppa:ubuntuhandbook1/apps
+add-apt-repository -y ppa:ubuntuhandbook1/apps
 
 apt-get update
 
