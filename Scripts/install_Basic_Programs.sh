@@ -52,7 +52,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 flatpak install -y flathub org.pitivi.Pitivi
 
-flatpak run org.pitivi.Pitivi//stable
+flatpak install -y flathub org.kde.elisa
 
 add-apt-repository -y ppa:ubuntuhandbook1/apps
 
@@ -64,7 +64,7 @@ apt install -y dolphin
 
 apt install -y code
 
-apt install -y handbrake
+# apt install -y handbrake
 
 apt install -y gtkhash
 
