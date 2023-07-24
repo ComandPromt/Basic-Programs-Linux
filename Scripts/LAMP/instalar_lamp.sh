@@ -8,10 +8,10 @@ ufw allow in "Apache"
 
 ufw status
 
+apt install -y php libapache2-mod-php php-mysql
+
 apt install -y mysql-server
 
 mysql_secure_installation
-
-apt install -y php libapache2-mod-php php-mysql
 
 exit 0

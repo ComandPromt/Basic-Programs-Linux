@@ -60,8 +60,6 @@ apt-get update
 
 apt-get install -y converseen
 
-apt install -y dolphin
-
 apt install -y code
 
 # apt install -y handbrake
