@@ -8,6 +8,8 @@ apt install -y virtualbox
 
 snap install --classic code
 
+snap install sqlitebrowser
+
 wget https://release.gitkraken.com/linux/gitkraken-amd64.deb -O /home/$USER/gitkraken-amd64.deb
 
 chmod +x /home/$USER/gitkraken-amd64.deb
