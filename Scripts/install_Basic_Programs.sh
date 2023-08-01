@@ -4,6 +4,10 @@ sudo su
 
 apt install -y firefox
 
+apt install -y eom
+
+apt install -y gthumb
+
 apt install -y geany
 
 apt install -y kolourpaint
