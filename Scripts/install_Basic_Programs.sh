@@ -6,6 +6,8 @@ apt install -y firefox
 
 apt install -y eom
 
+apt install -y gnome-system-monitor
+
 apt install -y gthumb
 
 apt install -y geany
