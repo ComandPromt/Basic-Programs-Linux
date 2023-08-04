@@ -2,6 +2,8 @@
 
 snap install dbeaver-ce 
 
+apt install -y guake
+
 apt install -y git
 
 apt install -y virtualbox
