@@ -6,6 +6,8 @@ apt install -y guake
 
 apt install -y git
 
+apt install -y gnome-tweaks
+
 apt install -y virtualbox
 
 snap install --classic code
