@@ -169,8 +169,13 @@ sudo update-alternatives --config javac
  ~~~bash
  sudo apt install -y cheese
  ~~~
+
+# Gittyup
+
+![https://github.com/Murmele/Gittyup/releases](Download)
  
  # WebCamoid - Web Cam
+ 
  ~~~bash
  sudo apt install -y webcamoid
  ~~~
